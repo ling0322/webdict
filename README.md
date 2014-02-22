@@ -7,7 +7,7 @@ webdict的第一个词库发布
 
 webdict.txt是不包含词频的词库, 总共201195个词条。
 
-webdict_with_freq.txt是包含了词频的词库, 总共154967个词条。
+webdict_with_freq.txt是包含了词频的词库, 总共154967个词条, 统计词频所用语料库总共1583096137个词。
 
 两个词库使用到了[CC-CEDICT][1]的词表(CC BY-SA 3.0协议)
 
